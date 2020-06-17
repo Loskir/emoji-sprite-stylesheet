@@ -1,0 +1,16 @@
+{
+  "name": "@loskir/emoji-sprite-stylesheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loskir/emoji-sprite-stylesheet.git"
+  },
+  "author": "Loskir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loskir/emoji-sprite-stylesheet/issues"
+  },
+  "homepage": "https://github.com/loskir/emoji-sprite-stylesheet#readme"
+}
